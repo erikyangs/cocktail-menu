@@ -44,3 +44,9 @@ ul {
   font-family: "Glosa Display", sans-serif;
   font-size: 70px;
 }
+
+@media print {
+  #menu {
+    padding: 0 0 0 100px;
+  }
+}
