@@ -1,0 +1,46 @@
+@font-face {
+  font-family: "Glosa Display";
+  src: url("GlosaDisplay-Black.ttf");
+}
+
+@font-face {
+  font-family: "Gotham Pro Bold";
+  src: url("GothaProBol.otf");
+}
+
+@font-face {
+  font-family: "Gotham Pro Regular";
+  src: url("GothaProReg.otf");
+}
+
+body {
+	font-family: 'Gotham Pro Regular', sans-serif;
+  font-size: 34px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Glosa Display", sans-serif;
+  margin: 0;
+}
+
+ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.center-text {
+  text-align: center;
+}
+
+.col-xs-6 {
+  margin-bottom: 15px;
+}
+
+.drink-category {
+  font-family: "Gotham Pro Bold"
+}
+
+#title {
+  font-family: "Glosa Display", sans-serif;
+  font-size: 70px;
+}
